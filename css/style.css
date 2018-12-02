@@ -1,3 +1,7 @@
+main{
+	width: 1200px;
+	margin-left: 74px;
+}
 .inline-b{
 	display: inline-block;
 }
@@ -18,17 +22,14 @@ header{
 header h1{
 	font-size: 30px;
 	font-family: 'Inconsolata';
-	margin-right: 250px;
+	margin-right: 210px;
 	letter-spacing: 8px;
-}
-.nav{
-	text-align: right;
 }
 .nav-li a{
 	font-size: 14px;
 	font-family: 'Playfair Display';
-	margin-left: 120px;
-	line-height: 23px;
+	margin-left: 110px;
+	line-height: 30px;
 }
 .section1{
 	height: 1010px;
@@ -39,4 +40,75 @@ header h1{
 	background-repeat: no-repeat;
 	background-size: contain;
 	background-position: center;
+}
+.section1-div2{
+	height: 500px;
+}
+.div-contained{
+	width: 900px;
+	height: 360px;
+	margin-top: 95px;
+	margin-left: 143px;
+}
+.section1-div2-h4{
+	font-size: 14px;
+	font-family: 'Ubuntu';
+	color: #B4AD9E;
+	margin-bottom: 27px;
+}
+.section1-div2-h1{
+	font-size: 30px;
+	font-family: 'Playfair Display';
+	color: #626262;
+	margin-bottom: 40px;
+}
+.section1-div2-p{
+	font-size: 14px;
+	font-family: 'Playfair Display';
+	color: #626262;
+	margin-bottom: 47px;
+	line-height: 20px;
+}
+.section1-div2-h4{
+	font-size: 14px;
+	font-family: 'Ubuntu';
+	color: #B4AD9E;
+}
+.section2{
+	height: 575px;
+}
+
+.section2-div{
+	width: 420px;
+	height: 485px;
+}
+
+.box1{
+	margin: 30px 45px 30px 145px;
+}
+
+.box2{
+	margin: 30px 145px 30px auto;
+}
+
+.box-image{
+	margin-bottom: 31px;
+}
+.box-h4{
+    margin-bottom: 26px;
+    font-size: 14px;
+    font-family: 'Ubuntu';
+    color: #B4AD9E;
+}
+.box-h1{
+    margin-bottom: 35px;
+    font-size: 30px;
+    font-family: 'Playfair Display';
+    color: #626262;
+}
+.box-p{
+	font-size: 14px;
+	font-family: 'Playfair Display';
+	line-height: 24px;
+	color: #626262;
 }
