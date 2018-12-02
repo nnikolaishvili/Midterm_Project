@@ -1,0 +1,42 @@
+.inline-b{
+	display: inline-block;
+}
+
+.uppercase{
+	text-transform: uppercase;
+}
+.floatleft{
+	float: left;
+}
+.floatright{
+	float: right;
+}
+header{
+	height: 164px;
+	padding: 68px;
+}
+header h1{
+	font-size: 30px;
+	font-family: 'Inconsolata';
+	margin-right: 250px;
+	letter-spacing: 8px;
+}
+.nav{
+	text-align: right;
+}
+.nav-li a{
+	font-size: 14px;
+	font-family: 'Playfair Display';
+	margin-left: 120px;
+	line-height: 23px;
+}
+.section1{
+	height: 1010px;
+}
+.section1-div1{
+	height: 510px;
+	background-image: url('../img/img1.jpg');
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-position: center;
+}

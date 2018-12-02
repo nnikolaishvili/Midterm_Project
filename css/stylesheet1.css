@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Inconsolata';
+    src: url('../fonts/Inconsolata-Regular/Inconsolata-Regular.eot');
+    src: url('../fonts/Inconsolata-Regular/Inconsolata-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Inconsolata-Regular/Inconsolata-Regular.woff2') format('woff2'),
+        url('../fonts/Inconsolata-Regular/Inconsolata-Regular.woff') format('woff'),
+        url('../fonts/Inconsolata-Regular/Inconsolata-Regular.ttf') format('truetype'),
+        url('../fonts/Inconsolata-Regular/Inconsolata-Regular.svg#Inconsolata-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
