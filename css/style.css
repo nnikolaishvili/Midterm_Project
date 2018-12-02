@@ -2,6 +2,8 @@ main{
 	width: 1200px;
 	margin-left: 74px;
 }
+
+/*main functions*/
 .inline-b{
 	display: inline-block;
 }
@@ -15,6 +17,9 @@ main{
 .floatright{
 	float: right;
 }
+/*main functions*/
+
+/*header*/
 header{
 	height: 164px;
 	padding: 68px;
@@ -31,6 +36,9 @@ header h1{
 	margin-left: 110px;
 	line-height: 30px;
 }
+/*header*/
+
+/*first section*/
 .section1{
 	height: 1010px;
 }
@@ -74,6 +82,9 @@ header h1{
 	font-family: 'Ubuntu';
 	color: #B4AD9E;
 }
+/*first section*/
+
+/*sections of boxes*/
 .section2{
 	height: 575px;
 }
@@ -112,3 +123,13 @@ header h1{
 	line-height: 24px;
 	color: #626262;
 }
+/*sections of boxes*/
+
+/*grey container*/
+.grey-container{
+	width: 1349px;
+	height: 290px;
+	background-color: #626262;
+	margin-top: 80px;
+}
+/*grey container*/
