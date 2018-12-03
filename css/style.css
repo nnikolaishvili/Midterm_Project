@@ -129,9 +129,16 @@ header h1{
 .grey-container{
 	width: 1349px;
 	height: 290px;
-	background-color: #626262;
+	background-color: #F0F0F0;
 	margin-top: 80px;
 	margin-bottom: 80px;
+}
+.grey-cont-h1{
+	font-size: 30px;
+	font-family: 'Playfair Display';
+	color: #333333;
+	padding-left: 470px;
+	padding-top: 74px;
 }
 /*grey container*/
 
@@ -173,7 +180,7 @@ footer div{
 	font-size: 14px;
 	font-family: 'Playfair Display';
 }
-.nav-li a{
+footer .nav-li a{
 	margin-left: 15px;
 }
 .img1{
@@ -192,3 +199,4 @@ footer .nav-li:first-child{
 	font-family: 14px;
 	font-family: 'Playfair Display';
 }
+/*footer*/
