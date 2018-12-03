@@ -156,4 +156,39 @@ footer{
 	height: 100px;
 	background: #F0F0F0;
 }
-
+footer div{
+	width: 211px;
+	height: 15px;
+	margin-top: 40px;
+	margin-left: 145px;
+}
+.footer-h2:first-child{
+	margin-right: 15px;
+}
+.footer-nav{
+	margin-top: 35px;
+	margin-right: 69px;
+}
+.footer-h2{
+	font-size: 14px;
+	font-family: 'Playfair Display';
+}
+.nav-li a{
+	margin-left: 15px;
+}
+.img1{
+	width: 8px;
+	height: 14px;
+}
+.img2{
+	width: 18px;
+	height: 13px;
+}
+.img3{
+	width: 15px;
+	height: 15px;
+}
+footer .nav-li:first-child{
+	font-family: 14px;
+	font-family: 'Playfair Display';
+}
