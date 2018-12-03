@@ -33,6 +33,7 @@ header h1{
 .nav-li a{
 	font-size: 14px;
 	font-family: 'Playfair Display';
+	color: #626262;
 	margin-left: 110px;
 	line-height: 30px;
 }
@@ -140,6 +141,29 @@ header h1{
 	padding-left: 470px;
 	padding-top: 74px;
 }
+.form-div{
+	padding-left: 470px;
+	padding-top: 74px;
+}
+form{
+	display: inline-block;
+	padding-bottom: 15px;
+	border-bottom: 1px solid black;
+}
+input[type=email]{
+	width: 320px;
+	background-color:#F0F0F0;
+	border: none;
+	font-size: 14px;
+	font-family: 'Playfair Display';
+}
+/*.btn{
+	width: 33px;
+	height: 21px;
+	background-image: url('../img/submit.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+}*/
 /*grey container*/
 
 /*lead-more*/
